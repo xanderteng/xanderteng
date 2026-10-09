@@ -7,7 +7,7 @@ I'm a **Computer Science undergraduate at BINUS University** with a strong passi
 - 🌐 Just launched my personal portfolio at [**xanderteng.net**](https://xanderteng.net)
 - 🛡️ Built [**StyloGuard**](https://styloguard-frontend.vercel.app/), a hybrid IndoBERT & stylometry platform detecting ghostwriters in Indonesian media
 - 🌧️ Developed [**TangerangCast**](https://tangerangcast.ai-project.web.id/), a geospatial weather forecasting system with stacking ensemble ML & ONNX
-- 🤝 Binus University Mentor Scholarship Awardee & Member at **BNCC** (Bina Nusantara Computer Club)
+- 🤝 Binus University Mentor Scholarship Awardee & Staff at **BNCC** (Bina Nusantara Computer Club)
 
 ---
 
