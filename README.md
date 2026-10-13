@@ -4,10 +4,10 @@ I'm a **Computer Science undergraduate at BINUS University** with a strong passi
 ---
 
 ### 🚀 What I'm Up To
-- 🌐 Just launched my personal portfolio at [**xanderteng.net**](https://xanderteng.net)
-- 🛡️ Built [**StyloGuard**](https://styloguard-frontend.vercel.app/), a hybrid IndoBERT & stylometry platform detecting ghostwriters in Indonesian media
-- 🌧️ Developed [**TangerangCast**](https://tangerangcast.ai-project.web.id/), a geospatial weather forecasting system with stacking ensemble ML & ONNX
-- 🤝 Binus University Mentor Scholarship Awardee & Staff at **BNCC** (Bina Nusantara Computer Club)
+- Just launched my personal portfolio at [**xanderteng.net**](https://xanderteng.net)
+- Built [**StyloGuard**](https://styloguard-frontend.vercel.app/), a hybrid IndoBERT & stylometry platform detecting ghostwriters in Indonesian media
+- Developed [**TangerangCast**](https://tangerangcast.ai-project.web.id/), a geospatial weather forecasting system with stacking ensemble ML & ONNX
+- Binus University Mentor Scholarship Awardee & Staff at **BNCC** (Bina Nusantara Computer Club)
 
 ---
 
@@ -60,7 +60,7 @@ I'm a **Computer Science undergraduate at BINUS University** with a strong passi
 
 ---
 
-### 📫 Connect With Me
+### 📫 Contacts
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-xanderteng.net-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://xanderteng.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Xander_Trevor_Tengari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xander-trevor-tengari-44b4a0326/)
@@ -68,4 +68,4 @@ I'm a **Computer Science undergraduate at BINUS University** with a strong passi
 [![GitHub](https://img.shields.io/badge/GitHub-xanderteng-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xanderteng)
 
 ---
-*Feel free to explore my repos, reach out for collaborations, or say hi!*
+*Feel free to explore my repos*
